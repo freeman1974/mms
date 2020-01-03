@@ -5,10 +5,8 @@
 [![](https://codecov.io/gh/ossrs/srs/branch/develop/graph/badge.svg)](https://codecov.io/gh/ossrs/srs/branch/develop)
 [![](https://cloud.githubusercontent.com/assets/2777660/22814959/c51cbe72-ef92-11e6-81cc-32b657b285d5.png)](https://github.com/ossrs/srs/wiki/v1_CN_Contact#wechat)
 
-SRS/3.0，[OuXuli][release3]，是一个简单的流媒体直播集群，简单的快乐。<br/>
-SRS(Simple RTMP Server) is a simple live streaming cluster, a simple joy.
-
-> Remark: Although SRS is licenced under [MIT][LICENSE], but there are some depended libraries which are distributed using their own licenses, please read [License Mixing][LicenseMixing].
+MMS，混合流媒体服务器，RTMP/TCP流服和webrtc/UDP流服<br/>
+MMS(Mixed Media Server) is a live streaming cluster mixed with RTMP and WEBRTC.
 
 <a name="product"></a>
 ## Usage
