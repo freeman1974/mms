@@ -1,4 +1,4 @@
-# SRS
+# MMS
 
 ![](http://ossrs.net/gif/v1/sls.gif?site=github.com&path=/srs/develop)
 [![](https://circleci.com/gh/ossrs/srs/tree/develop.svg?style=svg&circle-token=1ef1d5b5b0cde6c8c282ed856a18199f9e8f85a9)](https://circleci.com/gh/ossrs/srs/tree/develop)
@@ -10,7 +10,7 @@ MMS(Mixed Media Server) is a live streaming cluster mixed with RTMP and WEBRTC.
 <a name="product"></a>
 ## Usage
 
-**Step 1:** Get SRS.
+**Step 1:** Get MMS.
 
 ```
 git clone https://github.com/ossrs/srs &&
@@ -1080,16 +1080,6 @@ Gitlab: [https://gitlab.com/winlinvip/srs-gitlab][gitlab], the GIT usage([CN][v1
 ```
 git clone https://gitlab.com/winlinvip/srs-gitlab.git
 ```
-
-## System Requirements
-
-Supported operating systems and hardware:
-
-* All Linux, both 32 and 64 bits
-* Other OS, such as Windows, please use [docker][docker-srs3].
-
-Beijing, 2013.10<br/>
-Winlin
 
 
 [p1]: https://github.com/ossrs/srs/commit/787ab674e38734ea8e0678101614fdcd84645dc8
